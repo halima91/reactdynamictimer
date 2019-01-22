@@ -1,0 +1,23 @@
+.time {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+  }
+  .division {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+  }
+  .containerglobal{
+  text-align: center;
+  }
+  
+  .btn{
+    width: 20%;
+    margin:10px;
+    margin:10px;
+
+  }
+  .btn1{
+      margin-right:20px;
+  }

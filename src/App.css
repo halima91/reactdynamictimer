@@ -1,13 +1,4 @@
-.time {
-  display: flex;
-  justify-content: space-between;
-  width: 20%;
-}
-.division {
-  display: flex;
-  justify-content: space-between;
-  width: 20%;
-}
+
 .App {
   text-align: center;
   margin: 20px 60px;
